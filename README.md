@@ -76,7 +76,9 @@ BlckArk can be applied in the following scenarios:
 - Windows 10 x64  
 
 - MD5:
+
   BlckArk: 98C6466763A72C10D3F0F3FF63544A4E
+
   pe64.dll: 66B0057039519F20332B67F400892436
 
 ## 软件截图 | Software screenshots
@@ -88,3 +90,5 @@ BlckArk can be applied in the following scenarios:
 ![BlckArk](./images/3.png)
 
 ![BlckArk](./images/4.png)
+
+![交流群](./images/5.png)

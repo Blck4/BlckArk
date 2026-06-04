@@ -91,4 +91,4 @@ BlckArk can be applied in the following scenarios:
 
 ![BlckArk](./images/4.png)
 
-<img src="./images/5.png" width="900"  height="160" alt="BlckArk Main Interface">
+<img src="./images/5.png" width="400"  height="500" alt="BlckArk Main Interface">
